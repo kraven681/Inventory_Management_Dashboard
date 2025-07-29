@@ -31,7 +31,8 @@ This project analyzes inventory data to uncover key metrics related to stock mov
 
 # 🧷 File Included
 
-📄 *[[Inventory Data Extract (2)_Extract.xlsx](https://github.com/user-attachments/files/21498238/Inventory.Data.Extract.2._Extract.xlsx)
+📄 *[[Inventory Data Extract (2)_Extract.xlsx](https://github.com/user-attachments/files/21498259/Inventory.Data.Extract.2._Extract.xlsx)
+
 ]* *(replace with your actual file link after uploading to GitHub)*
 
 ---
