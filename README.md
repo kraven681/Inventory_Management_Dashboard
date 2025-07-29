@@ -1,7 +1,7 @@
 
 ![InventoryGIF](https://github.com/user-attachments/assets/898a78d4-9c4d-44e8-93b6-113f81a11368)
 
-# 📦 INVENTORY ANALYSIS DASHBOARD - 2024
+# 📦 INVENTORY ANALYSIS DASHBOARD - 2025
 
 This project analyzes inventory data to uncover key metrics related to stock movement, supplier performance, and inventory value. The primary goal is to build an insightful dashboard for better inventory control and decision-making. The dataset includes details about item categories, suppliers, costs, order status, and stock levels.
 
@@ -31,13 +31,15 @@ This project analyzes inventory data to uncover key metrics related to stock mov
 
 # 🧷 File Included
 
-📄 *[Inventory Data Extract.xlsx]* *(replace with your actual file link after uploading to GitHub)*
+📄 *[[Inventory Data Extract (2)_Extract.xlsx](https://github.com/user-attachments/files/21498238/Inventory.Data.Extract.2._Extract.xlsx)
+]* *(replace with your actual file link after uploading to GitHub)*
 
 ---
 
 # 📷 Sample Output
 
-<img width="1623" height="790" alt="Screenshot Inventory Dashboard" src="https://github.com/user-attachments/assets/b7a47a68-d737-4995-b071-990580c36d39" />
+<img width="1920" height="1020" alt="Screenshot 2025-07-30 041039" src="https://github.com/user-attachments/assets/fc359934-67d1-4e89-bafa-19a2816452b2" />
+
 
 ---
 
